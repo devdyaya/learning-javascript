@@ -1,1 +1,2 @@
-# learning-javascript
+# N予備校プログラミング学習log
+
