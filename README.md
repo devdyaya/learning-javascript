@@ -2,16 +2,16 @@
 
 ## 第1章: はじめよう
 
-- [ ] 01.第1章のはじめに
-- [ ] 02.プログラミング体験をしてみよう
-- [ ] 03.はじめてのHTML
-- [ ] 04.さまざまなHTMLタグ
-- [ ] 05.HTMLで作る自己紹介ページ
-- [ ] 06.はじめてのJavaScript
-- [ ] 07.JavaScriptでの計算
-- [ ] 08.JavaScriptで論理を扱う
-- [ ] 09.JavaScriptのループ
-- [ ] 10.JavaScriptのコレクション
+- [x] 01.第1章のはじめに
+- [x] 02.プログラミング体験をしてみよう
+- [x] 03.はじめてのHTML
+- [x] 04.さまざまなHTMLタグ
+- [x] 05.HTMLで作る自己紹介ページ
+- [x] 06.はじめてのJavaScript
+- [x] 07.JavaScriptでの計算
+- [x] 08.JavaScriptで論理を扱う
+- [x] 09.JavaScriptのループ
+- [x] 10.JavaScriptのコレクション
 - [ ] 11.JavaScriptの関数
 - [ ] 12.JavaScriptのオブジェクト
 - [ ] 13.はじめてのCSS
