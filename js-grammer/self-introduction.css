@@ -1,0 +1,14 @@
+ body {
+  background: lightblue;
+}
+
+li {
+  list-style: square;
+  margin: 10px;
+  color: darkblue;
+}
+
+a {
+  font-weight: bold;
+}
+
